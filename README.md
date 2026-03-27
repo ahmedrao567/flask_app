@@ -12,3 +12,4 @@ pipeline issue occur it says git is not working then i setup the git in jenkins 
 then issue occur about the public url payload url then i use ngrok that provides public url for webhook it takes alot of my time 
 then on deployment stage i occur and issue of port then i changed the port bcz it was already in use and changes all the port in app in pipeline etc 
 thats all challenegs that i face
+.
